@@ -1,0 +1,4 @@
+pyrealsense2==2.50.0.3812
+PyQt5==5.15.0
+opencv-python==4.2.0.32
+numpy==1.19.5
