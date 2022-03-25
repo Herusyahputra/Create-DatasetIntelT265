@@ -2,7 +2,7 @@
 
 ## Create dataset visual Odometry using camera Intel T-625
 
-Date: December 29, 2021                                                                                                                                                                  
+Date: December 29, 2021                                                                           
 Name Project: Create Dataset Using Intel T265
 
 
@@ -43,4 +43,5 @@ This program was created to make it easier to capture datasets (Image Sequence) 
  **4. Result**
    
    ![a](https://user-images.githubusercontent.com/60929939/148066663-ad1e7327-b8b9-4cd2-a00b-9809835d1bb5.png)
+
 
